@@ -1,0 +1,10 @@
+{
+  "name" : "source",
+  "fileExtension" : ".md",
+  "autoUploadInsertedImageKey" : "blog-https:\/\/upload.qiniup.com",
+  "autoUploadInsertedImage" : true,
+  "folderType" : 11,
+  "mediaFloder" : "images",
+  "orderBy" : 0,
+  "newlinesToBR" : 0
+}
